@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mohamed-A-Idoudi
+- 👋 Hi, you can call me amine
 - 👀 I’m interested in Cyber Security, Natwork and Systems Engineering and I have some experience in MERN development
 - 🌱 I’m currently learning Network architecture
 - 💞️ I’m looking to collaborate on Security Projects
